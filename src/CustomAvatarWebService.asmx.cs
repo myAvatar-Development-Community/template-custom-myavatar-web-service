@@ -26,9 +26,11 @@ namespace CustomAvatarWebService
             {
                 case "doSomething":
                     return MethodName(sentOptionObject);
+
                 default:
                     break;
             }
+
             return sentOptionObject;
         }
 
