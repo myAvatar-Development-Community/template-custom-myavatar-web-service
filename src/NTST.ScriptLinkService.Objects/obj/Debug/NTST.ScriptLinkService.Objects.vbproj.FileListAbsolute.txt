@@ -1,0 +1,19 @@
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\NTST.ScriptLinkService.Objects\bin\Debug\NTST.ScriptLinkService.Objects.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\NTST.ScriptLinkService.Objects\bin\Debug\NTST.ScriptLinkService.Objects.pdb
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\NTST.ScriptLinkService.Objects\bin\Debug\NTST.ScriptLinkService.Objects.xml
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\NTST.ScriptLinkService.Objects\obj\Debug\NTST.ScriptLinkService.Objects.Resources.resources
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\NTST.ScriptLinkService.Objects\obj\Debug\NTST.ScriptLinkService.Objects.vbproj.GenerateResource.cache
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\NTST.ScriptLinkService.Objects\obj\Debug\NTST.ScriptLinkService.Objects.vbproj.CoreCompileInputs.cache
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\NTST.ScriptLinkService.Objects\obj\Debug\NTST.ScriptLinkService.Objects.dll
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\NTST.ScriptLinkService.Objects\obj\Debug\NTST.ScriptLinkService.Objects.xml
+C:\Users\jsatterley\Documents\Visual Studio 2017\Projects\ScriptLinkStub\NTST.ScriptLinkService.Objects\obj\Debug\NTST.ScriptLinkService.Objects.pdb
+C:\Users\jsatterley\Desktop\ScriptLinkStub\NTST.ScriptLinkService.Objects\bin\Debug\NTST.ScriptLinkService.Objects.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\NTST.ScriptLinkService.Objects\bin\Debug\NTST.ScriptLinkService.Objects.pdb
+C:\Users\jsatterley\Desktop\ScriptLinkStub\NTST.ScriptLinkService.Objects\bin\Debug\NTST.ScriptLinkService.Objects.xml
+C:\Users\jsatterley\Desktop\ScriptLinkStub\NTST.ScriptLinkService.Objects\obj\Debug\NTST.ScriptLinkService.Objects.vbprojAssemblyReference.cache
+C:\Users\jsatterley\Desktop\ScriptLinkStub\NTST.ScriptLinkService.Objects\obj\Debug\NTST.ScriptLinkService.Objects.Resources.resources
+C:\Users\jsatterley\Desktop\ScriptLinkStub\NTST.ScriptLinkService.Objects\obj\Debug\NTST.ScriptLinkService.Objects.vbproj.GenerateResource.cache
+C:\Users\jsatterley\Desktop\ScriptLinkStub\NTST.ScriptLinkService.Objects\obj\Debug\NTST.ScriptLinkService.Objects.vbproj.CoreCompileInputs.cache
+C:\Users\jsatterley\Desktop\ScriptLinkStub\NTST.ScriptLinkService.Objects\obj\Debug\NTST.ScriptLinkService.Objects.dll
+C:\Users\jsatterley\Desktop\ScriptLinkStub\NTST.ScriptLinkService.Objects\obj\Debug\NTST.ScriptLinkService.Objects.xml
+C:\Users\jsatterley\Desktop\ScriptLinkStub\NTST.ScriptLinkService.Objects\obj\Debug\NTST.ScriptLinkService.Objects.pdb
