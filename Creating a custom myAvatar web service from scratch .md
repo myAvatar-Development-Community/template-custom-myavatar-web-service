@@ -10,7 +10,7 @@
 </h2>
 
 <h6 align="center">
-  Last updated: May 3, 2022 by <a href="https://github.com/chrisbanwarth">Chris Banwarth</a>
+  Last updated: May 3, 2022 by <a href="https://github.com/APrettyCoolProgram">Chris Banwarth</a>
 </h6>
 
 ***
