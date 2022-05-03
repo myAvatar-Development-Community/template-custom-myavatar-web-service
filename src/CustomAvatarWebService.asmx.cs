@@ -1,11 +1,26 @@
-﻿using System.Web.Services;
+﻿// PROJECT: custom-avatar-web-service-template (https://github.com/myAvatar-Development-Community/custom-avatar-web-service-template)
+//    FILE: CustomAvatarWebService.asmx.cs
+// UPDATED: 5-3-2022-11:59 AM
+// LICENSE: Apache v2 (https://apache.org/licenses/LICENSE-2.0)
+
+// A custom web service template for Netsmart's myAvatar™ EHR
+// v1.0.0.0-b220503.115810
+//
+// Developed by:
+//   - A Pretty Cool Program (https://github.com/APrettyCoolProgram)
+//     Christopher Banwarth
+//     Application Integration Architect
+//     Spectrum Health Systems, Inc.
+// 
+// For more information, please visit:
+//
+//  https://github.com/myAvatar-Development-Community/custom-avatar-web-service-template
+
+using System.Web.Services;
 using NTST.ScriptLinkService.Objects;
 
 namespace CustomAvatarWebService
 {
-    /// <summary>
-    /// Summary description for CustomAvatarWebService
-    /// </summary>
     [WebService(Namespace = "http://tempuri.org/")]
     [WebServiceBinding(ConformsTo = WsiProfiles.BasicProfile1_1)]
     [System.ComponentModel.ToolboxItem(false)]
@@ -24,7 +39,7 @@ namespace CustomAvatarWebService
         {
             switch(action)
             {
-                case "doSomething":
+                case "DoSomething":
                     return MethodName(sentOptionObject);
 
                 default:
