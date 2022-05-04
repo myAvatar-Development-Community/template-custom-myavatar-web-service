@@ -15,7 +15,7 @@ This repository contains blank, custom web service template for Netsmart's myAva
 
 This is the same foundation used to create [the MyAvatool Web Service (MAWS)](https://github.com/spectrum-health-systems/MAWS), a custom myAvatar™ web service that we use at [Spectrum Health Systems](https://www.spectrumhealthsystems.org/). 
 
-You can also create this template from scratch by following [these instructions]().
+You can also create this template from scratch by following [these instructions](https://github.com/myAvatar-Development-Community/document-creating-a-custom-web-service).
 
 # Requirements
 
